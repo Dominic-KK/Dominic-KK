@@ -14,4 +14,9 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [赛博菩萨Cloudflare意外崩溃，让全世界回归“古法编程”](https://blog.dominickk.top/archives/lQECq2ob)
+- [微博删除助手](https://blog.dominickk.top/archives/UJSQaZAc)
+- [达梦数据库修改表属性，报错 锁超时](https://blog.dominickk.top/archives/7LwT4Iho)
+- [快速将QFlie操作开启线程](https://blog.dominickk.top/archives/r8nBZfuu)
+- [在MyBatis Mapper中处理String[]数组参数](https://blog.dominickk.top/archives/R4yLs95S)
 <!-- BLOG-POST-LIST:END -->
